@@ -23,6 +23,27 @@ npm run preview
 
 Deploy the generated `dist/` directory to a static host with HTTPS. Camera access requires HTTPS or localhost. No backend or API keys are required.
 
+## Publish with GitHub Pages
+
+The public site is hosted at **https://jiawen5.github.io/poise/**.
+
+In the repository's **Settings > Pages > Build and deployment**, select **GitHub Actions** as the source. The workflow at `.github/workflows/pages.yml` deploys every push to `main`; it can also be started from **Actions > Deploy Poise to GitHub Pages > Run workflow**.
+
+The workflow uses Node.js 24, installs locked dependencies with `npm ci`, prepares the local posture model and WebAssembly assets, runs unit tests, builds the Vite app, and deploys **only `dist/`**. It does not use Jekyll or serve the TypeScript source directly. No personal access token or additional repository secret is required.
+
+GitHub Pages supplies the site's base path to `VITE_BASE_PATH`, so scripts, fonts, exercise GIFs, the favicon, and the posture model load correctly from `/poise/`. Local development still uses `/`. Hash-based navigation, such as `/poise/#exercises`, works without server rewrites.
+
+To preview the GitHub Pages build locally on macOS or Linux:
+
+```sh
+VITE_BASE_PATH=/poise/ npm run build
+VITE_BASE_PATH=/poise/ npm run preview
+```
+
+Open `http://127.0.0.1:4173/poise/`. For updates, commit your changes and push to `main`, then check the deployment in the repository's Actions tab.
+
+The published app uses HTTPS for camera access. Visitors must enable their own camera; video still stays on their device. Localhost activity does not transfer to the published website because browser storage is separate for each origin. GitHub Pages does not add shared customer analytics or an administrator backend.
+
 ## Your workspace
 
 - **Focus and rest:** 25-minute focus, 5-minute short breaks, and a 15-minute long break after four completed rounds. Customize durations in Preferences. Breaks start automatically; the next focus session waits for an explicit start.
