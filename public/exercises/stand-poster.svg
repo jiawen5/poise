@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220">
+    <title>A person rises beside a chair, reaches comfortably forward, and sits back down.</title>
+    <rect width="320" height="220" fill="#eeedf5"/>
+    <ellipse cx="161" cy="194" rx="92" ry="6" fill="#d7d1e0" />
+    <path d="M44 187v-21m0 12q-13 0-12-11 12 0 12 11m0-5q12 0 12-10-12 0-12 10" fill="#e0dce9" stroke="#afa2c0" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <path d="M104 101v44h51m-46 5v39m39-39v39" fill="none" stroke="#d7d1e0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="107" y="139" width="51" height="9" rx="4" fill="#e0dce9" stroke="#706681" stroke-width="1.4"/>
+    <path d="M158 119L161 155 172 187h12" fill="none" stroke="#afa2c0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M167 119L172 157 182 190h12" fill="none" stroke="#706681" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <path d="M154 56v12h12V54" fill="#e5bea2" stroke="#706681" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse cx="159" cy="42" rx="17" ry="17" fill="#e5bea2" stroke="#706681" stroke-width="1.5"/>
+    <path d="M143 39C140 19 173 17 176 36Q163 39 154 30Q150 39 143 39" fill="#706681" stroke="#706681" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse cx="168" cy="44" rx="1.2" ry="1.2" fill="#706681" /><path d="M164 52q4 2 7 -1" fill="none" stroke="#706681" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+  
+    <path d="M152 65Q170 61 177 73L178 116Q163 124 151 117Z" fill="#afa2c0" stroke="#706681" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M172 74L195 79 222 65" fill="none" stroke="#706681" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse cx="222" cy="65" rx="4" ry="4" fill="#e5bea2" stroke="#706681" stroke-width="1.2"/>
+    <path d="M232 183h21m-10-5 10 5-10 5" fill="none" stroke="#706681" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity=".35"/>
+  
+  </svg>

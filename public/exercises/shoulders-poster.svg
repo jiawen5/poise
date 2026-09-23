@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220">
+    <title>A seated person gently lifts and releases their shoulders.</title>
+    <rect width="320" height="220" fill="#f7ede4"/>
+    <ellipse cx="161" cy="194" rx="92" ry="6" fill="#e1d2c5" />
+    <path d="M44 187v-21m0 12q-13 0-12-11 12 0 12 11m0-5q12 0 12-10-12 0-12 10" fill="#eedfd1" stroke="#c7987e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+    
+    
+    
+    <path d="M121 105v45h78v-45" fill="none" stroke="#e1d2c5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M126 154v36m68-36v36" fill="none" stroke="#8b5d42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="119" y="143" width="82" height="11" rx="5" fill="#eedfd1" stroke="#8b5d42" stroke-width="1.5"/>
+  
+    <path d="M146 137l-3 45m31-45 3 45" fill="none" stroke="#8b5d42" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M143 183h-12m46 0h12" fill="none" stroke="#8b5d42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <path d="M155 69v12h12V67" fill="#e5bea2" stroke="#8b5d42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse cx="160" cy="55" rx="17" ry="17" fill="#e5bea2" stroke="#8b5d42" stroke-width="1.5"/>
+    <path d="M144 52C141 32 174 30 177 49Q164 52 155 43Q151 52 144 52" fill="#8b5d42" stroke="#8b5d42" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M151 57q3 3 6 0m6 0q3 3 6 0" fill="none" stroke="#8b5d42" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" /><path d="M157 65q3 2 6 0" fill="none" stroke="#8b5d42" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+  
+    <path d="M136 84.09Q160 79.09 184 84.09L185 137Q160 146 135 137Z" fill="#c7987e" stroke="#8b5d42" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M136 87.09Q123 92.09 123 110.55L126 136.55" fill="none" stroke="#8b5d42" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M184 87.09Q197 92.09 197 110.55L194 136.55" fill="none" stroke="#8b5d42" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+    <ellipse cx="126" cy="138.55" rx="4" ry="6" fill="#e5bea2" stroke="#8b5d42" stroke-width="1.3"/><ellipse cx="194" cy="138.55" rx="4" ry="6" fill="#e5bea2" stroke="#8b5d42" stroke-width="1.3"/>
+  
+    <path d="M104 114q-9-13 0-27m-6 5 6-6 4 7M216 87q9 13 0 27m-4-7 4 7 6-5" fill="none" stroke="#8b5d42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  
+  </svg>

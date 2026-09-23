@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220">
+    <title>An eye looks toward a distant landscape and blinks gently.</title>
+    <rect width="320" height="220" fill="#edf1e5"/>
+    <ellipse cx="161" cy="194" rx="92" ry="6" fill="#d5ddc8" />
+    <path d="M44 187v-21m0 12q-13 0-12-11 12 0 12 11m0-5q12 0 12-10-12 0-12 10" fill="#dfe6d4" stroke="#9db187" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <defs><clipPath id="eye"><path d="M48 103Q108 60 168 103Q108 146 48 103Z"/></clipPath><clipPath id="view"><circle cx="253" cy="100" r="39"/></clipPath></defs>
+    <ellipse cx="253" cy="100" rx="43" ry="43" fill="#dfe6d4" />
+    <g clip-path="url(#view)">
+      <ellipse cx="253" cy="100" rx="39" ry="39" fill="#f8f9ef" />
+      <ellipse cx="269" cy="83" rx="8" ry="8" fill="#d6b18b" />
+      <path d="M210 119q24-35 46-8q22-16 44 4v31h-90Z" fill="#9db187" stroke="#9db187" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M209 129q32-20 55-2q20-12 41-6v24h-96Z" fill="#5d6c49" stroke="#5d6c49" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path d="M212 146h81" fill="none" stroke="#d5ddc8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M48 103Q108 60 168 103Q108 146 48 103Z" fill="#fafbf6" stroke="#5d6c49" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <g clip-path="url(#eye)">
+      <ellipse cx="119" cy="103" rx="17" ry="17" fill="#9db187" />
+      <ellipse cx="119" cy="103" rx="8" ry="8" fill="#5d6c49" />
+      <ellipse cx="124" cy="98" rx="3" ry="3" fill="#fafbf6" />
+    </g>
+    <path d="M48 103Q108 60 168 103" fill="none" stroke="#5d6c49" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M66 69q39-22 76 0" fill="none" stroke="#5d6c49" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".45"/>
+    <path d="M177 103h23m-5-4 5 4-5 4" fill="none" stroke="#5d6c49" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 4" opacity=".65"/>
+    <path d="M63 154q45 9 87 0" fill="none" stroke="#d5ddc8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  
+  </svg>
